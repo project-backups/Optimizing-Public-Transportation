@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="875778ff-9e8e-4755-b933-5dcca25404e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/consumer.py" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/consumer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/ksql.py" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/ksql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/models/line.py" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/models/line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producers/connector.py" beforeDir="false" afterPath="$PROJECT_DIR$/producers/connector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producers/models/station.py" beforeDir="false" afterPath="$PROJECT_DIR$/producers/models/station.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producers/models/turnstile.py" beforeDir="false" afterPath="$PROJECT_DIR$/producers/models/turnstile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producers/models/weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/producers/models/weather.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bQxgc2O7wxzhQPfeKqdvo2veuQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="875778ff-9e8e-4755-b933-5dcca25404e9" name="Default Changelist" comment="" />
+      <created>1588578230939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588578230939</updated>
+      <workItem from="1588578236999" duration="644000" />
+      <workItem from="1588578898982" duration="14764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="138" key="SettingsEditor" timestamp="1588579042826">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="341" y="138" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1588579042826" />
+    <state x="695" y="130" width="600" height="816" key="find.popup" timestamp="1588700758408">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="695" y="129" width="600" height="807" key="find.popup/0.23.1680.947@0.23.1680.947" timestamp="1588686673465" />
+    <state x="695" y="130" width="600" height="812" key="find.popup/0.23.1680.952@0.23.1680.952" timestamp="1588700158003" />
+    <state x="695" y="130" width="600" height="816" key="find.popup/0.23.1680.956@0.23.1680.956" timestamp="1588700758408" />
+  </component>
+</project>
